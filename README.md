@@ -30,6 +30,31 @@ API Docs: https://n-cs1125e44.vercel.app/api-docs
 
 ---
 
+## Diseño UX/UI
+
+Diseño de la experiencia de CondoTrack: investigación de usuarios, arquitectura de información, flujos, wireframes y design system.
+
+**Rol:** UX/UI Designer · **Herramienta:** Figma
+
+### Entregables
+
+| Entregable | Descripción |
+|---|---|
+| [Archivo de Figma](https://www.figma.com/design/eSXua0YO5wA52cwKhvd9fc/Condotrack) | Wireframes mid-fi, flujos y design system |
+| User personas | Administración, Recepción, Residente, Propietario y Proveedor |
+| Arquitectura de información | Modelo Edificio → Unidad → Residente, sitemaps por rol y matriz de permisos |
+| Task flows | Registro de visita (Recepción) y reserva del SUM (Residente), con casos borde |
+| Wireframes | Panel de administración, visitas, reservas y modales |
+| Design system | Colores, tipografía (Inter), botones, cards, badges e íconos |
+
+### Proceso
+
+1. Definición de roles y personas
+2. Arquitectura de información y permisos por rol
+3. Task flows de los casos de uso críticos
+4. Wireframes en mid-fi
+5. Design system y handoff al equipo de desarrollo
+
 ## Tecnologías
 
 ### Backend
